@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/4VwD9bT/dev-banner-dark.png" alt="developer banner" width="100%"/>
-</p>
-
 <h1 align="center">✨ luminariadev — Rizkia Nuari Fujiana</h1>
 
 <p align="center">
@@ -59,16 +55,6 @@ I'm **Rizkia**, also known as **`luminariadev`**, an aspiring full-stack develop
   <img src="https://github-readme-stats.vercel.app/api?username=luminariadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminariadev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
----
-
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/luminariadev/luminariadev/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
-> ⚙️ *You need to activate GitHub Action for this snake. [See guide](https://github.com/Platane/snk)*
 
 ---
 
