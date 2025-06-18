@@ -27,14 +27,9 @@ I'm currently expanding my tech stack and actively learning:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge\&logo=electron\&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Rizkia's GitHub stats](https://github-readme-stats.vercel.app/api?username=majansoft\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majansoft\&layout=compact\&theme=radical)
-
 ## 📫 Let's Connect
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: [rizkianuari83@gmail.com](mailto:rizkianuari83@gmail.com)
 * 🌐 Portfolio: \[Coming Soon]
 * 🔗 LinkedIn: \[Your LinkedIn Profile]
 
