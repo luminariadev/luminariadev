@@ -1,5 +1,9 @@
 <!-- README.md -->
 
+<p align="center">
+  <img src="https://i.ibb.co/4VwD9bT/dev-banner-dark.png" alt="developer banner" width="100%"/>
+</p>
+
 <h1 align="center">✨ luminariadev — Rizkia Nuari Fujiana</h1>
 
 <p align="center">
@@ -8,9 +12,12 @@
 
 ---
 
-### 💻 About Me
+### 💡 About Me
 
-I'm **Rizkia**, also known online as **`luminariadev`**, an aspiring full-stack developer with a strong passion for JavaScript and building things that solve real problems.
+I'm **Rizkia**, also known as **`luminariadev`**, an aspiring full-stack developer with a passion for turning ideas into working applications using JavaScript and beyond.
+
+> 🕯️ **Why `luminaria`?**  
+> Inspired by the word "Luminaria" — a light that guides others in the dark — I believe in code that solves, simplifies, and **illuminates** problems. My goal is to grow and share light through software.
 
 ---
 
@@ -50,9 +57,20 @@ I'm actively diving into:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luminariadev&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luminariadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminariadev&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luminariadev/luminariadev/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+> 💡 Aktifkan GitHub Action untuk snake animation:  
+> [Setup Guide](https://github.com/Platane/snk)
 
 ---
 
@@ -64,7 +82,6 @@ I'm actively diving into:
 
 ---
 
-> “Code. Break. Fix. Learn. Repeat.”  
+> 🧠 “Code. Break. Fix. Learn. Repeat.”  
 > — *luminariadev*
 
----
