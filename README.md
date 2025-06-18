@@ -1,25 +1,119 @@
-<!-- 🌊 HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD166&height=200&section=header&text=LuminariaDev&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+💻 Rizkia Nuari Fujiana
 
-<!-- 🔡 TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rizkia+Nuari+Fujiana;aka+luminariadev+👩‍💻;JavaScript+Enthusiast+⚡;Fullstack+Dev+in+Progress+🚀;Node.js+%7C+MySQL+%7C+React%2FVue%2FElectron" alt="Typing SVG" />
-</p>
 
----
 
-## 👩‍💻 About Me
+Hi there! I'm Rizkia, a passionate learner and aspiring full-stack developer who loves JavaScript and crafting practical apps. Inspired by retro gaming vibes (think Mario and Yoshi!), I blend creativity with code in my journey.
 
-Hi there! I’m **Rizkia**, also known as **luminariadev** — a passionate and curious developer who loves creating useful apps with **JavaScript** and its ever-growing ecosystem.
 
-```js
-const luminaria = {
-  name: "Rizkia Nuari Fujiana",
-  alias: "luminariadev",
-  focus: "Building practical fullstack apps",
-  currentStack: ["Node.js", "Vanilla JS", "MySQL"],
-  learning: ["React", "Vue", "Next.js", "MongoDB", "Electron", "Laravel"],
-  quote: "Code. Break. Fix. Learn. Repeat."
-}
+
+🚀 Current Skills
+
+
+
+
+
+🌐 JavaScript (Vanilla) - Building interactive web experiences.
+
+
+
+🛠 Node.js - Powering backend development.
+
+
+
+🗄 MySQL - Managing relational databases.
+
+🌱 Learning Roadmap
+
+I'm leveling up my tech stack with:
+
+
+
+
+
+💚 Frontend Frameworks: React, Vue.js, Next.js
+
+
+
+💻 Desktop App Dev: Electron.js
+
+
+
+🔎 NoSQL: MongoDB, Firebase
+
+
+
+⚙️ PHP Framework: Laravel
+
+🔧 Tech Stack Badges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🎮 Pixel Art Inspiration
+
+My workspace is a tribute to retro gaming! Check out the pixel art vibe:
+
+
+
+
+
+Mushroom Power-Ups: Representing growth and progress.
+
+
+
+Yoshi & Mario: My coding companions!
+
+
+
+Neon X Sign: A nod to futuristic tech.
+
+
+
+📫 Let's Connect
+
+
+
+
+
+📧 Email: rizkianuari83@gmail.com
+
+
+
+🌐 Portfolio: [Coming Soon]
+
+
+
+🔗 LinkedIn: [Coming Soon]
+
+
+
+"Code. Break. Fix. Learn. Repeat. 🎮"
+
+Thanks for visiting my GitHub profile!
