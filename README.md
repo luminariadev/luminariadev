@@ -1,22 +1,25 @@
-<!-- Profile Header Banner -->
+<!-- 🌊 HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD166&height=200&section=header&text=Luminaria%20Dev&fontSize=45&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD166&height=200&section=header&text=LuminariaDev&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing animation -->
+<!-- 🔡 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6464&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rizkia+Nuari+Fujiana;aka+luminariadev+💡;Fullstack+Dev+in+progress+💻;Loves+JS%2C+Node.js+%26+Practical+Builds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rizkia+Nuari+Fujiana;aka+luminariadev+👩‍💻;JavaScript+Enthusiast+⚡;Fullstack+Dev+in+Progress+🚀;Node.js+%7C+MySQL+%7C+React%2FVue%2FElectron" alt="Typing SVG" />
 </p>
 
 ---
 
-## ✨ About Me
+## 👩‍💻 About Me
 
-Hi there! I'm **Rizkia**, also known as **`luminariadev`**, a passionate learner and future full-stack developer who loves **JavaScript** and building useful, real-world apps.
+Hi there! I’m **Rizkia**, also known as **luminariadev** — a passionate and curious developer who loves creating useful apps with **JavaScript** and its ever-growing ecosystem.
 
 ```js
-const dev = {
-  code: ["JavaScript", "Node.js", "MySQL"],
-  learning: ["React", "Vue", "Next", "Electron", "MongoDB", "Laravel"],
-  vibe: "Code. Break. Fix. Learn. Repeat.",
-};
+const luminaria = {
+  name: "Rizkia Nuari Fujiana",
+  alias: "luminariadev",
+  focus: "Building practical fullstack apps",
+  currentStack: ["Node.js", "Vanilla JS", "MySQL"],
+  learning: ["React", "Vue", "Next.js", "MongoDB", "Electron", "Laravel"],
+  quote: "Code. Break. Fix. Learn. Repeat."
+}
