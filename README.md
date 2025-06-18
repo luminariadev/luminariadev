@@ -31,7 +31,7 @@ I'm currently expanding my tech stack and actively learning:
 
 * 📧 Email: [rizkianuari83@gmail.com](mailto:rizkianuari83@gmail.com)
 * 🌐 Portfolio: \[Coming Soon]
-* 🔗 LinkedIn: \[Your LinkedIn Profile]
+* 🔗 LinkedIn: \[Coming Soon]
 
 ---
 
