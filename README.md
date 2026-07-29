@@ -1,14 +1,7 @@
 <pre>
-✦  ⋆  .  ✦  ·  ✦  ·  ✦  ⋆  ✦
+✦  ·  ✦  ·  ✦  ·  ✦
 ⋆  ·  ✦  ·  ☾  L U M I N A R I A  ☽  ·  ✦  ·  ⋆
-✦  ⋆  .  ✦  ·  ✦  ·  ✦  ⋆  ✦
-
-██╗     ██╗   ██╗███╗   ███╗██╗███╗   ██╗ █████╗ ██████╗ ██╗ █████╗
-██║     ██║   ██║████╗ ████║██║████╗  ██║██╔══██╗██╔══██╗██║██╔══██╗
-██║     ██║   ██║██╔████╔██║██║██╔██╗ ██║███████║██████╔╝██║███████║
-██║     ██║   ██║██║╚██╔╝██║██║██║╚██╗██║██╔══██║██╔══██╗██║██╔══██║
-███████╗╚██████╔╝██║ ╚═╝ ██║██║██║ ╚████║██║  ██║██║  ██║██║██║  ██║
-╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+✦  ·  ✦  ·  ✦  ·  ✦
 </pre>
 
 <p align="center">
@@ -26,10 +19,10 @@
 ## 🎵 Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9" width="120" height="120" style="border-radius:12px;box-shadow:0 0 20px rgba(107,251,154,0.3)" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9" width="120" height="120" style="border-radius:12px;box-shadow:0 0 20px rgba(107,251,154,0.3);" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%B5%20Flatline-Justi Bieber%20-%20Album:%20Believe?style=for-the-badge&color=131313&labelColor=6bfb9a" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%B5%20Flatline-Justin%20Bieber%20-%20Album:%20Believe?style=for-the-badge&color=131313&labelColor=6bfb9a" />
 </p>
 <p align="center">
   <a href="https://open.spotify.com/track/2GBgiuXwY1KzJMA0gSAr9J">
@@ -124,12 +117,17 @@ I am currently learning and exploring different areas of software development, i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luminariadev&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=131313&title_color=6bfb9a&text_color=c0c0c0" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminariadev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=131313&title_color=6bfb9a&text_color=c0c0c0" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luminariadev&theme=chartreuse_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luminariadev&theme=chartreuse_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luminariadev&theme=chartreuse-dark&hide_border=true&background=131313&stroke=6bfb9a" height="165" />
+  <img src="https://github-readme-stats-wheat-zeta.vercel.app/api?username=luminariadev&theme=chartreuse-dark&show_icons=true&hide_border=true" alt="GitHub Stats (Alternative)" />
+  <img src="https://github-readme-stats-wheat-zeta.vercel.app/api/top-langs/?username=luminariadev&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-wheat-zeta.vercel.app/?user=luminariadev" alt="GitHub Streak (Alternative)" />
 </p>
 
 ---
@@ -137,15 +135,23 @@ I am currently learning and exploring different areas of software development, i
 ## 🌌 3D Contributions
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-3d-contrib.svg" width="600" alt="3D Contributions" />
+  <img src="profile-3d-contrib/profile-3d-contrib.svg" width="600" alt="3D Contributions (generate via Actions)" />
 </p>
+
+<details>
+<summary>ℹ️ Not visible yet? Click here</summary>
+
+SVG ini di-generate otomatis oleh GitHub Action <code>yoshi389111/github-profile-3d-contrib</code> setiap hari pukul 00:00 UTC.
+<br>Klik <b>Actions</b> → <b>Generate 3D Contributions SVG</b> → <b>Run workflow</b> untuk memaksa generate sekarang.
+</details>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luminariadev&theme=chartreuse&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  ⚡ *Trophies are temporarily unavailable* ⚡<br>
+  Use <code>https://github-profile-summary-cards.vercel.app/api/cards/trophies?username=luminariadev&theme=chartreuse_dark</code> ketika CDN kembali normal
 </p>
 
 ---
