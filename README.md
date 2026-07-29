@@ -32,58 +32,51 @@
 
 ---
 
-## 💡 About Me
+## 💻 About Me
 
-I'm **Rizkia Nuari Fujiana**, also known as **`luminariadev`** — an aspiring software developer who enjoys building practical, clean, and meaningful applications.
+<pre style="background:#131313;color:#c0c0c0;padding:16px;border-radius:12px;border:1px solid #6bfb9a;font-size:14px;line-height:1.6;">
+<span style="color:#6bfb9a;">luminariadev</span>@<span style="color:#6bfb9a;">github</span> ~ $ cat profile.json
+<span style="color:#555;">├──────────────────────────────────────────────────────────────</span>
+<span style="color:#6bfb9a;">│</span>  Name       : <span style="color:#fff;">Rizkia Nuari Fujiana</span>
+<span style="color:#6bfb9a;">│</span>  Username   : <span style="color:#6bfb9a;">luminariadev</span>
+<span style="color:#6bfb9a;">│</span>  Role       : Aspiring Software Developer | Fullstack Learner
+<span style="color:#6bfb9a;">│</span>  Location   : <span style="color:#fff;">Sukabumi, Indonesia 🇮🇩</span>
+<span style="color:#6bfb9a;">│</span>  University : UIN Sunan Gunung Djati Bandung
+<span style="color:#6bfb9a;">│</span>  Focus      : Web · Mobile · Backend · Automation
+<span style="color:#6bfb9a;">│</span>  Status     : <span style="color:#6bfb9a;">Building useful software 🚀</span>
+<span style="color:#555;">├──────────────────────────────────────────────────────────────</span>
+<span style="color:#6bfb9a;">│</span>  <span style="color:#aaa;">Why "luminaria"?</span>
+<span style="color:#6bfb9a;">│</span>  Inspired by Latin <span style="color:#6bfb9a;">luminaria</span> = "lights / sources of inspiration"
+<span style="color:#6bfb9a;">│</span>  Also resembles <span style="color:#6bfb9a;">Nuari</span> phonetically: luminari ≈ nuari
+<span style="color:#6bfb9a;">│</span>  I build software that brings clarity and creates value.
+<span style="color:#555;">└──────────────────────────────────────────────────────────────</span>
 
-I am currently learning and exploring different areas of software development, including **web apps, mobile apps, backend systems, databases, automation, and SaaS-style products**.
-
-> 🕯️ **Why `luminaria`?**  
-> Inspired by the Latin word *luminaria*, meaning "lights" or "sources of inspiration".  
-> It also resembles **Nuari** phonetically: `luminari ≈ nuari`.  
-> I want to build software that brings clarity, solves real problems, and creates value.
-
----
-
-## 🚀 Current Focus
-
-- 🧩 Building real-world software projects
-- 🌐 Learning full-stack web development
-- 📱 Exploring mobile app development
-- 🧠 Understanding software architecture and clean code
-- 🛠️ Improving Git, GitHub, and project workflow
-- ⚙️ Learning how to use AI tools without losing fundamental understanding
+<span style="color:#6bfb9a;">luminariadev</span>@<span style="color:#6bfb9a;">github</span> ~ $ ls focus/
+<span style="color:#555;">├──────────────────────────────────────────────────────────────</span>
+<span style="color:#6bfb9a;">│</span>  [1] 🧩 Building real-world software projects
+<span style="color:#6bfb9a;">│</span>  [2] 🌐 Learning full-stack web development
+<span style="color:#6bfb9a;">│</span>  [3] 📱 Exploring mobile app development
+<span style="color:#6bfb9a;">│</span>  [4] 🧠 Understanding software architecture & clean code
+<span style="color:#6bfb9a;">│</span>  [5] 🛠️  Improving Git, GitHub, and project workflow
+<span style="color:#6bfb9a;">│</span>  [6] ⚙️  Using AI tools wisely without losing fundamentals
+<span style="color:#555;">└──────────────────────────────────────────────────────────────</span>
+</pre>
 
 ---
 
 ## 🧭 Learning Tracks
 
-<table>
-  <tr>
-    <td><b>🌐 Web Development</b></td>
-    <td>HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Astro</td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend Development</b></td>
-    <td>Node.js, Express, Laravel, Ruby on Rails, Go, Gin</td>
-  </tr>
-  <tr>
-    <td><b>📱 Mobile Development</b></td>
-    <td>Flutter, Dart, Kotlin, Android Development</td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Database</b></td>
-    <td>MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Supabase</td>
-  </tr>
-  <tr>
-    <td><b>🧰 Tools & Workflow</b></td>
-    <td>Git, GitHub, Docker, VS Code, Postman, Linux</td>
-  </tr>
-  <tr>
-    <td><b>🤖 Automation & AI</b></td>
-    <td>n8n, AI-assisted coding, workflow automation</td>
-  </tr>
-</table>
+<pre style="background:#131313;color:#c0c0c0;padding:16px;border-radius:12px;border:1px solid #6bfb9a;font-size:14px;line-height:1.6;">
+<span style="color:#6bfb9a;">luminariadev</span>@<span style="color:#6bfb9a;">github</span> ~ $ cat tracks.json
+<span style="color:#555;">├──────────────────────────────────────────────────────────────</span>
+<span style="color:#6bfb9a;">│</span>  🌐 Web Development       : HTML CSS JS TS React Next.js Vue Astro
+<span style="color:#6bfb9a;">│</span>  ⚙️  Backend Development    : Node.js Express Laravel Rails Go Gin
+<span style="color:#6bfb9a;">│</span>  📱 Mobile Development     : Flutter Dart Kotlin Android
+<span style="color:#6bfb9a;">│</span>  🗄️  Database               : MySQL PostgreSQL SQLite MongoDB Firebase Supabase
+<span style="color:#6bfb9a;">│</span>  🧰 Tools & Workflow       : Git GitHub Docker VS Code Postman Linux
+<span style="color:#6bfb9a;">│</span>  🤖 Automation & AI        : n8n AI-assisted-coding Workflow-Automation
+<span style="color:#555;">└──────────────────────────────────────────────────────────────</span>
+</pre>
 
 ---
 
