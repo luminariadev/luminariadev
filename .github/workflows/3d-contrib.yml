@@ -25,7 +25,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          OUTPUT_PROFILE_3D_CONTRIB_SVG_PATH: "profile-3d-contrib/profile-3d-contrib.svg"
+          OUTPUT_PROFILE_3D_CONTRIB_SVG_PATH: "profile-3d-contrib/profile-night-rainbow.svg"
+          THEME: "night-rainbow"
 
       - name: Commit and push
         run: |

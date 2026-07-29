@@ -80,20 +80,15 @@ Learning and exploring web apps, mobile apps, backend systems, databases, automa
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Analytics & Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luminariadev&theme=chartreuse_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luminariadev&theme=chartreuse_dark" alt="Profile Details" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=luminariadev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6bfb9a&icon_color=6bfb9a&text_color=FFFFFF&include_all_commits=true&count_private=true" height="195"/>
+  <img src="https://github-readme-streak-stats-wheat-zeta.vercel.app/?user=luminariadev&theme=tokyonight&hide_border=true&background=0D1117&ring=6bfb9a&fire=6bfb9a&currStreakLabel=6bfb9a" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-wheat-zeta.vercel.app/api?username=luminariadev&theme=chartreuse-dark&show_icons=true&hide_border=true" alt="GitHub Stats (Alternative)" />
-  <img src="https://github-readme-stats-wheat-zeta.vercel.app/api/top-langs/?username=luminariadev&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-wheat-zeta.vercel.app/?user=luminariadev" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luminariadev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6bfb9a&line=6bfb9a&point=FFFFFF&area=true" width="100%"/>
 </p>
 
 ---
@@ -101,15 +96,8 @@ Learning and exploring web apps, mobile apps, backend systems, databases, automa
 ## 🌌 3D Contributions
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-3d-contrib.svg" width="600" alt="3D Contributions" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </p>
-
-<details>
-<summary>ℹ️ Not visible yet? Click here</summary>
-
-SVG ini di-generate otomatis oleh GitHub Action <code>yoshi389111/github-profile-3d-contrib</code> setiap hari pukul 00:00 UTC.
-<br>Klik <b>Actions</b> → <b>Generate 3D Contributions SVG</b> → <b>Run workflow</b> untuk memaksa generate sekarang.
-</details>
 
 ---
 
