@@ -64,7 +64,7 @@ Learning and exploring web apps, mobile apps, backend systems, databases, automa
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,astro,nodejs,express,php,laravel,ruby,rails,go,dart,flutter,kotlin,mysql,postgres,sqlite,mongodb,supabase,firebase,git,github,docker,linux,vscode,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,astro,nodejs,express,ruby,rails,go,dart,flutter,kotlin,java,python,svelte,mysql,postgres,sqlite,supabase,git,github,docker,linux,vscode,postman,reactnative&perline=9" />
 </p>
 
 ---
