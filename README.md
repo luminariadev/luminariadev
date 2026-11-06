@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=6bfb9a&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rizkia+Nuari+Fujiana+%F0%9F%91%8B;Aspiring+Software+Developer+%7C+Fullstack+Learner;Exploring+Web%2C+Mobile%2C+Backend%2C+and+Automation;Building+useful+software+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=6bfb9a&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rizkia+Nuari+Fujiana+%F0%9F%91%8B;Fullstack+%26+Mobile+(Flutter)+Developer;Security-First+Mindset+%7C+DevOps+Enthusiast;Building+scalable%2C+resilient+%26+secure+software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -39,9 +39,9 @@
 
 ## 💡 About Me
 
-Aspiring software developer who enjoys building practical, clean, and meaningful applications.
+Aspiring software engineer dedicated to building practical, performant, and secure applications across modern web and mobile ecosystems.
 
-Learning and exploring web apps, mobile apps, backend systems, databases, automation, and SaaS-style products.
+Experienced in architecting cross-platform apps with **Flutter**, modern reactive interfaces with **Next.js & Vue**, robust backend APIs, and streamlining developer operations with **Docker & CI/CD pipelines**.
 
 > 🕯️ **Why `luminaria`?**  
 > Inspired by the Latin word *luminaria*, meaning "lights" or "sources of inspiration".  
@@ -52,31 +52,32 @@ Learning and exploring web apps, mobile apps, backend systems, databases, automa
 
 ## 🚀 Current Focus
 
-| Area | What I am exploring |
-| --- | --- |
-| **Fullstack Web Development** | React, Next.js, Astro, Vue, Node.js — building end-to-end web applications. |
-| **Mobile Development** | Flutter, Dart, Kotlin — exploring cross-platform and native mobile apps. |
-| **Backend & Databases** | Express, Laravel, Rails, Go, PostgreSQL, Supabase — designing robust APIs and data layers. |
-| **Automation & AI** | n8n workflows, AI-assisted coding, and developer tooling to ship faster. |
+| Domain | What I am engineering & exploring |
+| :--- | :--- |
+| 📱 **Mobile Engineering** | **Flutter & Dart** — Cross-platform mobile development with Clean Architecture, state management (Provider/Bloc), local persistence (SQLite/sqflite), and responsive layouts. |
+| 🌐 **Fullstack Web Systems** | **Next.js (App Router), Vue 3 & TypeScript** — High-performance reactive applications, server-rendered architectures, and scalable RESTful/FastAPI backend services. |
+| 🛡️ **DevSecOps & CI/CD** | **Docker & GitHub Actions** — Automated test and deployment pipelines, containerized micro-environments, and cloud hosting workflows on Vercel. |
+| 🔒 **AppSec & Network Core** | **Secure API Design, Auth/RBAC & OWASP Standards** — Implementing end-to-end encryption principles, tokenized authentication (JWT/OAuth2), and resilient network communication. |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,astro,nodejs,express,ruby,rails,go,dart,flutter,kotlin,java,python,svelte,mysql,postgres,sqlite,supabase,git,github,docker,linux,vscode,postman,reactnative&perline=9" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,next,vue,ts,js,python,html,css,tailwind,nodejs,express,fastapi,laravel,postgres,mysql,sqlite,supabase,docker,git,github,githubactions,linux,nginx,postman,vscode&perline=9" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-| Project | Focus | Why it matters |
-| --- | --- | --- |
-| [**TopZone**](https://github.com/luminariadev) | Cafe POS System | A modern Cafe POS PWA with Astro + Supabase + Vercel, featuring inventory management and reporting. |
-| [**Laundry System**](https://github.com/luminariadev) | Business Management | Complete laundry business management system with order tracking and customer management. |
-| [**Booking System**](https://github.com/luminariadev) | Web & Mobile | Cross-platform booking system for scheduling and reservations. |
-| [**My Portfolio**](https://github.com/luminariadev) | Portfolio Website | Personal portfolio built with Next.js 16 + React 19, dark theme with GSAP animations. |
+| Project | Category / Stack | Highlights & Architecture |
+| :--- | :--- | :--- |
+| [**SOCA (Ocular Condition Analyzer)**](https://github.com/luminariadev/soca-ai) | Fullstack AI Screening<br>`Vue 3` `Vite` `Tailwind` `PyTorch` | Clinical anterior eye screening platform backed by a PyTorch MobileNetV2 deep learning classifier achieving **97.99% validation accuracy**. |
+| [**Gawean (Gamify Todolist)**](https://github.com/luminariadev) | Mobile Development<br>`Flutter` `Dart` `Provider` `SQLite` | Gamified productivity and task management mobile app with offline-first local SQL persistence, FL Chart analytics, and dynamic achievement systems. |
+| [**Sabit Academy**](https://github.com/luminariadev/sabit-academy) | Modern Web Architecture<br>`Next.js 16` `React 19` `Tailwind v4` | High-performance educational web application leveraging modern Next.js App Router, modular components, and dark-mode glassmorphic layouts. [Live Demo ↗](https://sabit-jade.vercel.app/) |
+| [**Aviatec Portal**](https://github.com/luminariadev/aviatec-portal) | Enterprise Web Platform<br>`Vue 3` `Tailwind CSS` `Vite` | Precision industrial instrument calibration and asset management portal with ISO-standard traceable documentation workflows. [Live Demo ↗](https://aviatec-artha.vercel.app/) |
+| [**Evenstar**](https://github.com/luminariadev/evenstar) | Interactive Motion UI<br>`React 19` `GSAP` `Tailwind CSS` | High-aesthetic luxury product showcase featuring scroll-triggered GSAP animations, fluid transitions, and mobile-first responsive architecture. [Live Demo ↗](https://arwen-evenstar.vercel.app/) |
 
 ---
 
