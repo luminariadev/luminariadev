@@ -73,11 +73,14 @@ Experienced in architecting cross-platform apps with **Flutter**, modern reactiv
 
 | Project | Category / Stack | Highlights & Architecture |
 | :--- | :--- | :--- |
-| [**SOCA (Ocular Condition Analyzer)**](https://github.com/luminariadev/soca-ai) | Fullstack AI Screening<br>`Vue 3` `Vite` `Tailwind` `PyTorch` | Clinical anterior eye screening platform backed by a PyTorch MobileNetV2 deep learning classifier achieving **97.99% validation accuracy**. |
-| [**Gawean (Gamify Todolist)**](https://github.com/luminariadev) | Mobile Development<br>`Flutter` `Dart` `Provider` `SQLite` | Gamified productivity and task management mobile app with offline-first local SQL persistence, FL Chart analytics, and dynamic achievement systems. |
+| [**SOCA (Ocular Condition Analyzer)**](https://github.com/luminariadev/soca) | Fullstack AI Screening<br>`Vue 3` `Vite` `Tailwind` `PyTorch` | Clinical anterior eye screening platform backed by a PyTorch MobileNetV2 deep learning classifier achieving **97.99% validation accuracy**. |
+| [**Gawean (Gamify Todolist)**](https://github.com/luminariadev/gawean-gamify-todolist) | Mobile Development<br>`Flutter` `Dart` `Provider` `SQLite` | Gamified productivity and task management mobile app with offline-first local SQL persistence, FL Chart analytics, and dynamic achievement systems. |
 | [**Sabit Academy**](https://github.com/luminariadev/sabit-academy) | Modern Web Architecture<br>`Next.js 16` `React 19` `Tailwind v4` | High-performance educational web application leveraging modern Next.js App Router, modular components, and dark-mode glassmorphic layouts. [Live Demo ↗](https://sabit-jade.vercel.app/) |
 | [**Aviatec Portal**](https://github.com/luminariadev/aviatec-portal) | Enterprise Web Platform<br>`Vue 3` `Tailwind CSS` `Vite` | Precision industrial instrument calibration and asset management portal with ISO-standard traceable documentation workflows. [Live Demo ↗](https://aviatec-artha.vercel.app/) |
 | [**Evenstar**](https://github.com/luminariadev/evenstar) | Interactive Motion UI<br>`React 19` `GSAP` `Tailwind CSS` | High-aesthetic luxury product showcase featuring scroll-triggered GSAP animations, fluid transitions, and mobile-first responsive architecture. [Live Demo ↗](https://arwen-evenstar.vercel.app/) |
+| [**Lumeria Bakery**](https://github.com/luminariadev/lumeria) | Modern E-Commerce<br>`React 19` `Vite` `Tailwind CSS` | Artisanal bakery showcase featuring custom hamper order builder and interactive WhatsApp checkout. [Live Demo ↗](https://lumeria-mu.vercel.app/) |
+| [**VolunteerHub**](https://github.com/luminariadev/volunteer-hub) | Mobile Application<br>`Flutter` `Dart` `Laravel` `MySQL` | Cross-platform event & community volunteering app with RBAC and REST API, published on Google Play. |
+| [**Greentify**](https://github.com/luminariadev/greentify) | Fullstack Community Platform<br>`Laravel 11` `Tailwind` `MySQL` `PWA` | Sustainable living editorial platform and community portal with role-based moderation and offline PWA caching. |
 
 ---
 
@@ -120,7 +123,7 @@ Improve continuously.
   <a href="mailto:rizkianuari83@gmail.com">
     <img src="https://img.shields.io/badge/Email-rizkianuari83%40gmail.com-6bfb9a?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://linkedin.com/in/rizkia-nuari-fujiana">
+  <a href="https://www.linkedin.com/in/rizkia-nuari-42b9b13a0/">
     <img src="https://img.shields.io/badge/LinkedIn-Rizkia%20Nuari-6bfb9a?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://github.com/luminariadev">
