@@ -73,6 +73,7 @@ Experienced in architecting cross-platform apps with **Flutter**, modern reactiv
 
 | Project | Category / Stack | Highlights & Architecture |
 | :--- | :--- | :--- |
+| [**SakuSkill**](https://github.com/luminariadev/sakuskill) | Fullstack Campus Escrow & P2P Barter<br>`Flutter` `Node.js` `PostgreSQL PostGIS` `React` | Hyperlocal campus skill-swapping & freelance micro-marketplace with PostGIS geolocation discovery, finite-state-machine escrow holding, and React Web Admin moderation panel. [Release v1.0.0-MVP ↗](https://github.com/luminariadev/sakuskill/releases/tag/v1.0.0-mvp) |
 | [**SOCA (Ocular Condition Analyzer)**](https://github.com/luminariadev/soca) | Fullstack AI Screening<br>`Vue 3` `Vite` `Tailwind` `PyTorch` | Clinical anterior eye screening platform backed by a PyTorch MobileNetV2 deep learning classifier achieving **97.99% validation accuracy**. |
 | [**Gawean (Gamify Todolist)**](https://github.com/luminariadev/gawean-gamify-todolist) | Mobile Development<br>`Flutter` `Dart` `Provider` `SQLite` | Gamified productivity and task management mobile app with offline-first local SQL persistence, FL Chart analytics, and dynamic achievement systems. |
 | [**Sabit Academy**](https://github.com/luminariadev/sabit-academy) | Modern Web Architecture<br>`Next.js 16` `React 19` `Tailwind v4` | High-performance educational web application leveraging modern Next.js App Router, modular components, and dark-mode glassmorphic layouts. [Live Demo ↗](https://sabit-jade.vercel.app/) |
