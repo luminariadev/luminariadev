@@ -55,16 +55,16 @@ Experienced in architecting cross-platform apps with **Flutter**, modern reactiv
 | Domain | What I am engineering & exploring |
 | :--- | :--- |
 | 📱 **Mobile Engineering** | **Flutter & Dart** — Cross-platform mobile development with Clean Architecture, state management (Provider/Bloc), local persistence (SQLite/sqflite), and responsive layouts. |
-| 🌐 **Fullstack Web Systems** | **Next.js (App Router), Vue 3 & TypeScript** — High-performance reactive applications, server-rendered architectures, and scalable RESTful/FastAPI backend services. |
-| 🛡️ **DevSecOps & CI/CD** | **Docker & GitHub Actions** — Automated test and deployment pipelines, containerized micro-environments, and cloud hosting workflows on Vercel. |
-| 🔒 **AppSec & Network Core** | **Secure API Design, Auth/RBAC & OWASP Standards** — Implementing end-to-end encryption principles, tokenized authentication (JWT/OAuth2), and resilient network communication. |
+| 🌐 **Fullstack Web Systems** | **Next.js (App Router), Vue 3, React & TypeScript** — High-performance reactive applications, server-rendered architectures, and scalable RESTful/FastAPI backend services. |
+| 🛡️ **DevSecOps & CI/CD** | **Docker, Cloudflare Edge & GitHub Actions** — Automated test and deployment pipelines, zero-trust edge ingress tunnels, containerized micro-environments, and cloud hosting workflows on Vercel. |
+| 🔒 **AppSec & Network Core** | **Secure API Design, Auth/RBAC, ASVS & OWASP Top 10** — Implementing end-to-end encryption (TLSv1.3), rate-limited authentication, automated SAST AST scanning, and resilient network communication. |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,next,vue,ts,js,python,html,css,tailwind,nodejs,express,fastapi,laravel,postgres,mysql,sqlite,supabase,docker,git,github,githubactions,linux,nginx,postman,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,next,vue,ts,js,python,html,css,tailwind,nodejs,express,fastapi,laravel,postgres,mysql,sqlite,supabase,docker,cloudflare,git,github,githubactions,linux,nginx,postman,vscode&perline=9" />
 </p>
 
 ---
