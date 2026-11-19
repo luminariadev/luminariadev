@@ -106,6 +106,15 @@ Experienced in architecting cross-platform apps with **Flutter**, modern reactiv
 
 ---
 
+## 📐 Engineering Principles & Architectural Standards
+
+- 🏗️ **Clean Architecture & Domain-Driven Design (DDD):** Strict separation of concerns across Presentation, Domain, and Data layers in mobile and backend ecosystems.
+- 🛡️ **Zero-Trust Security & OWASP Hardening:** 100% Parameterized queries (AST-verified zero SQLi), bcrypt salt-10 password hashing, strict rate-limiting, and state-machine-enforced authorization.
+- 🌐 **Modern Edge & Network Ingress:** Cloudflare Tunneling for secure zero-open-port reverse proxying, TLSv1.3 encryption, and resilient multi-device client communication.
+- ⚡ **Performance & SRE:** 90-120Hz smooth animations, tree-shaken minimal binary releases, automated CI/CD testing gates, and clean-slate reproducible database seeding.
+
+---
+
 ## 📌 Development Philosophy
 
 ```txt
