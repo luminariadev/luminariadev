@@ -58,6 +58,7 @@ Experienced in architecting cross-platform apps with **Flutter**, modern reactiv
 | 🌐 **Fullstack Web Systems** | **Next.js (App Router), Vue 3, React & TypeScript** — High-performance reactive applications, server-rendered architectures, and scalable RESTful/FastAPI backend services. |
 | 🛡️ **DevSecOps & CI/CD** | **Docker, Cloudflare Edge & GitHub Actions** — Automated test and deployment pipelines, zero-trust edge ingress tunnels, containerized micro-environments, and cloud hosting workflows on Vercel. |
 | 🔒 **AppSec & Network Core** | **Secure API Design, Auth/RBAC, ASVS & OWASP Top 10** — Implementing end-to-end encryption (TLSv1.3), rate-limited authentication, automated SAST AST scanning, and resilient network communication. |
+| 🧠 **Applied AI & Intelligent Systems** | **Autonomous Security Agents & Model Serving** — Autonomous multi-agent vulnerability assessment (Strix AI), localized agent workflows, and computer vision classification pipelines with PyTorch. |
 
 ---
 
