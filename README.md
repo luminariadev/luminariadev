@@ -114,6 +114,7 @@ Experienced in architecting cross-platform apps with **Flutter**, modern reactiv
 - 🌐 **Modern Edge & Network Ingress:** Cloudflare Tunneling for secure zero-open-port reverse proxying, TLSv1.3 encryption, and resilient multi-device client communication.
 - ⚡ **Performance & SRE:** 90-120Hz smooth animations, tree-shaken minimal binary releases, automated CI/CD testing gates, and clean-slate reproducible database seeding.
 - 📊 **Observability & Immutable Audit Trail:** Structured JSON logging, real-time transaction event streaming, and tamper-resistant audit logs (`audit_logs`) for non-repudiation.
+- 🧪 **Automated Testing & Quality Gates:** Comprehensive test pyramid coverage (Unit, Widget, and Contract Integration tests) with zero-tolerance for regression failures.
 
 ---
 
