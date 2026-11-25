@@ -116,6 +116,7 @@ Experienced in architecting cross-platform apps with **Flutter**, modern reactiv
 - 📊 **Observability & Immutable Audit Trail:** Structured JSON logging, real-time transaction event streaming, and tamper-resistant audit logs (`audit_logs`) for non-repudiation.
 - 🧪 **Automated Testing & Quality Gates:** Comprehensive test pyramid coverage (Unit, Widget, and Contract Integration tests) with zero-tolerance for regression failures.
 - 📦 **Infrastructure as Code & Declarative Environments:** Deterministic multi-stage Docker containerization, 12-factor configuration parity, and immutable deployment artifacts across environments.
+- 🔄 **Resilient State Machines & Idempotency:** Deterministic finite-state-machine (FSM) lifecycles, ACID transaction boundaries, and idempotent mutation handlers to prevent duplicate execution and race conditions.
 
 ---
 
